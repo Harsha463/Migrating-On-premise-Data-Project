@@ -1,4 +1,4 @@
-# Migrating-On-premise-Data-Project 
+# Migrating On-premise Data to AWS Data warehouse by ETL Process
 This project through an ETL (Extract, Transform, and Load) process, that involves moving data
 from a on-premises database to a cloud-based data warehouse. The data migration process involves several stages, including:
 
